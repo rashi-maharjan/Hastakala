@@ -7,7 +7,7 @@ export const Sign_in = () => {
       <div className="container flex justify-center items-center z-[10]">
         <div className='place-self-center'>
           <img src={logo} alt="Hastakala Logo" width={158} height={38} loading='lazy' className='place-self-center mb-12 -z-[2]'/>
-          <div className='relative bg-slate-300 max-sm:w-[300px] w-[400px] px-9 py-12 border-2 border-white rounded-xl'>
+          <div className='relative bg-white/20 max-sm:w-[300px] w-[400px] px-9 py-12 border-2 border-white rounded-xl'>
             <div >
               <label htmlFor="Email" className='font-inter text-base'>Email</label><br />
               <input className='w-full border border-black rounded-3xl py-2 px-5 mt-4' type="email" id="Email" />
