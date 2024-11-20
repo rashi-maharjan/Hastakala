@@ -1,7 +1,7 @@
 import React from "react";
 import logo from "../assets/images/logo.png";
 
-export const Sign_in = () => {
+function Sign_up() {
   return (
     <section
       className="backdrop-blur-3xl h-screen overflow-hidden flex justify-center py-20 relative before:absolute before:left-[50%] before:top-[20%] 2xl:before:top-[30%]
@@ -19,6 +19,17 @@ export const Sign_in = () => {
           />
           <div className="relative bg-white/20 max-sm:w-[300px] w-[470px] px-9 py-12 border-2 border-white rounded-xl">
             <div>
+              <label htmlFor="Fullname" className="font-inter text-base">
+                Full Name
+              </label>
+              <br />
+              <input
+                className="w-full border border-black rounded-3xl py-2 px-5 mt-4 outline-none"
+                type="text"
+                id="text"
+              />
+            </div>
+            <div className="mt-6">
               <label htmlFor="Email" className="font-inter text-base">
                 Email
               </label>
@@ -40,17 +51,35 @@ export const Sign_in = () => {
                 id="password"
               />
             </div>
+            <div className="mt-6">
+              <label
+                htmlFor="confirm_password"
+                className="font-inter text-base"
+              >
+                Confirm Password
+              </label>
+              <br />
+              <input
+                className="w-full border border-black rounded-3xl py-2 px-5 mt-4 outline-none"
+                type="confirm_password"
+                id="confirm_password"
+              />
+            </div>
+
             <div className="mt-14 place-self-center text-center">
               <a
                 href="#"
                 className="bg-primary/90 px-5 py-3 w-64 mb-4 block text-center text-white rounded-3xl hover:bg-primary transition-all duration-200 ease-in-out"
               >
-                Sign In
+                Sign Up
               </a>
               <span>
                 Don't have account access?{" "}
-                <a href="#" className="text-primary whitespace-nowrap hover:underline">
-                  Sign Up
+                <a
+                  href="#"
+                  className="text-primary whitespace-nowrap hover:underline"
+                >
+                  Sign In
                 </a>
               </span>
             </div>
@@ -59,6 +88,6 @@ export const Sign_in = () => {
       </div>
     </section>
   );
-};
+}
 
-export default Sign_in;
+export default Sign_up;
