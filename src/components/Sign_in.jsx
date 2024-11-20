@@ -49,7 +49,10 @@ export const Sign_in = () => {
               </a>
               <span>
                 Don't have account access?{" "}
-                <a href="#" className="text-primary whitespace-nowrap hover:underline">
+                <a
+                  href="#"
+                  className="text-primary whitespace-nowrap hover:underline"
+                >
                   Sign Up
                 </a>
               </span>
