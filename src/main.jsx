@@ -8,6 +8,6 @@ import Sign_up from './components/Sign_up.jsx'
 createRoot(document.getElementById('root')).render(
   <StrictMode>
     <App />
-    <Sign_up />
+    <Sign_in />
   </StrictMode>,
 )
