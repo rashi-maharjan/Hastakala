@@ -10,19 +10,40 @@ function Header() {
       </a>
       <div>
         <ul className="flex gap-x-6">
-          <a href="#"><li>Home</li></a>
-          <a href="#" className="text-primary"><li>Community</li></a>
-          <a href="#"><li>Events</li></a>
-          <a href="#" className="flex items-center"><li>Categories</li> <svg xmlns="http://www.w3.org/2000/svg" width="22" height="24" viewBox="0 0 22 24" fill="none">
-<path d="M16.0416 9.25L10.9999 14.75L5.95825 9.25" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-</svg></a>
+          <a href="#">
+            <li>Home</li>
+          </a>
+          <a href="#" className="text-primary">
+            <li>Community</li>
+          </a>
+          <a href="#">
+            <li>Events</li>
+          </a>
+          <a href="#" className="flex items-center">
+            <li>Categories</li>{" "}
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              width="22"
+              height="24"
+              viewBox="0 0 22 24"
+              fill="none"
+            >
+              <path
+                d="M16.0416 9.25L10.9999 14.75L5.95825 9.25"
+                stroke="black"
+                stroke-width="1.5"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+            </svg>
+          </a>
         </ul>
       </div>
       <div className="relative w-1/3">
         <input
           type="search"
           placeholder="Search"
-          className="border rounded-3xl py-3 pr-3 pl-12 placeholder-black outline-none bg-gray-200/70 w-full"
+          className="border rounded-3xl py-3 pr-4 pl-12 placeholder-black outline-none bg-gray-200/70 w-full"
         />
         <svg
           className="absolute top-[25%] left-[5%]"
