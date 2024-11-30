@@ -233,7 +233,7 @@ function Header() {
             </div>
             <p className="font-semibold">Rashi Maharjan</p>
             <p className="text-sm text-gray-500 mb-6">
-              rashi.maharjan@gmail.com
+              rashimaharjan03@gmail.com
             </p>
 
             <div className="mb-6">

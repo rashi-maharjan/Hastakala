@@ -7,6 +7,9 @@ export default {
         primary: {
           DEFAULT: "#204EC5",
         },
+        dark:{
+          DEFAULT:"#111",
+        }
       },
     },
     plugins: [],
