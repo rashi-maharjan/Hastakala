@@ -8,13 +8,19 @@
   }
 }
 
-html{
+html {
   height: 100%;
 }
-body{
+body {
   height: 100%;
 }
 
-.r-shadow{
+.r-shadow {
   box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+.r-community {
+  border-radius: 32px;
+  background: #fff;
+  box-shadow: 0px 1px 20px 0px rgba(0, 0, 0, 0.1);
 }

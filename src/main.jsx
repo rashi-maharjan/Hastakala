@@ -12,6 +12,6 @@ import Community from './pages/Community.jsx'
 createRoot(document.getElementById('root')).render(
   <StrictMode>
     <App />
-    <Events/>
+    <Community/>
   </StrictMode>,
 )
