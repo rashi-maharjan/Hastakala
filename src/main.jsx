@@ -7,6 +7,7 @@ import Sign_up from './pages/Sign_up.jsx'
 import Header from './components/Header.jsx'
 import Events from './pages/Events.jsx'
 import Button from './components/Button.jsx'
+import Community from './pages/Community.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>

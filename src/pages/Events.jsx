@@ -26,9 +26,9 @@ function Events() {
                 <h3 className="text-2xl font-semibold">
                   Deities of Nepal Exhibition
                 </h3>
-                <p className="text-base font-light">Nov 27, 2022 - Dec 11, 2022</p>
-                <p className="text-base font-light">10:00 AM - 5:00 PM</p>
-                <p className="text-base font-light">Nepal Art Council, Babarmahal</p>
+                <p className="text-base font-normal">Nov 27, 2022 - Dec 11, 2022</p>
+                <p className="text-base font-normal">10:00 AM - 5:00 PM</p>
+                <p className="text-base font-normal">Nepal Art Council, Babarmahal</p>
               </div>
             </div>
             <div className="text-dark">
@@ -37,9 +37,9 @@ function Events() {
                 <h3 className="text-2xl font-semibold">
                 Deities of Nepal II Exhibition
                 </h3>
-                <p className="text-base font-light">May 21, 2024 - Jun 10, 2024</p>
-                <p className="text-base font-light">10:00 AM - 5:00 PM</p>
-                <p className="text-base font-light">Nepal Art Council, Babarmahal</p>
+                <p className="text-base font-normal">May 21, 2024 - Jun 10, 2024</p>
+                <p className="text-base font-normal">10:00 AM - 5:00 PM</p>
+                <p className="text-base font-normal">Nepal Art Council, Babarmahal</p>
               </div>
             </div>
             <div className="text-dark">
@@ -48,9 +48,9 @@ function Events() {
                 <h3 className="text-2xl font-semibold">
                 Workshop : Preservation of Contemporary Paubha & Thangka
                 </h3>
-                <p className="text-base font-light">Sep 17, 2024 </p>
-                <p className="text-base font-light">11:00 AM - 4:00 PM</p>
-                <p className="text-base font-light">Taragaon Next, Boudha</p>
+                <p className="text-base font-normal">Sep 17, 2024 </p>
+                <p className="text-base font-normal">11:00 AM - 4:00 PM</p>
+                <p className="text-base font-normal">Taragaon Next, Boudha</p>
               </div>
             </div>
             <div className="text-dark">
@@ -59,9 +59,9 @@ function Events() {
                 <h3 className="text-2xl font-semibold">
                 Workshop : Preservation of Contemporary Paubha & Thangka
                 </h3>
-                <p className="text-base font-light">Sep 17, 2024 </p>
-                <p className="text-base font-light">11:00 AM - 4:00 PM</p>
-                <p className="text-base font-light">Taragaon Next, Boudha</p>
+                <p className="text-base font-normal">Sep 17, 2024 </p>
+                <p className="text-base font-normal">11:00 AM - 4:00 PM</p>
+                <p className="text-base font-normal">Taragaon Next, Boudha</p>
               </div>
             </div>
             <div className="text-dark">
@@ -70,9 +70,9 @@ function Events() {
                 <h3 className="text-2xl font-semibold">
                 Workshop : Preservation of Contemporary Paubha & Thangka
                 </h3>
-                <p className="text-base font-light">Sep 17, 2024 </p>
-                <p className="text-base font-light">11:00 AM - 4:00 PM</p>
-                <p className="text-base font-light">Taragaon Next, Boudha</p>
+                <p className="text-base font-normal">Sep 17, 2024 </p>
+                <p className="text-base font-normal">11:00 AM - 4:00 PM</p>
+                <p className="text-base font-normal">Taragaon Next, Boudha</p>
               </div>
             </div>
             <div className="text-dark">
@@ -81,9 +81,9 @@ function Events() {
                 <h3 className="text-2xl font-semibold">
                 Workshop : Preservation of Contemporary Paubha & Thangka
                 </h3>
-                <p className="text-base font-light">Sep 17, 2024 </p>
-                <p className="text-base font-light">11:00 AM - 4:00 PM</p>
-                <p className="text-base font-light">Taragaon Next, Boudha</p>
+                <p className="text-base font-normal">Sep 17, 2024 </p>
+                <p className="text-base font-normal">11:00 AM - 4:00 PM</p>
+                <p className="text-base font-normal">Taragaon Next, Boudha</p>
               </div>
             </div>
             <div className="text-dark">
@@ -92,9 +92,9 @@ function Events() {
                 <h3 className="text-2xl font-semibold">
                 Workshop : Preservation of Contemporary Paubha & Thangka
                 </h3>
-                <p className="text-base font-light">Sep 17, 2024 </p>
-                <p className="text-base font-light">11:00 AM - 4:00 PM</p>
-                <p className="text-base font-light">Taragaon Next, Boudha</p>
+                <p className="text-base font-normal">Sep 17, 2024 </p>
+                <p className="text-base font-normal">11:00 AM - 4:00 PM</p>
+                <p className="text-base font-normal">Taragaon Next, Boudha</p>
               </div>
             </div>
             <div className="text-dark">
@@ -103,12 +103,13 @@ function Events() {
                 <h3 className="text-2xl font-semibold">
                 Workshop : Preservation of Contemporary Paubha & Thangka
                 </h3>
-                <p className="text-base font-light">Sep 17, 2024 </p>
-                <p className="text-base font-light">11:00 AM - 4:00 PM</p>
-                <p className="text-base font-light">Taragaon Next, Boudha</p>
+                <p className="text-base font-normal">Sep 17, 2024 </p>
+                <p className="text-base font-normal">11:00 AM - 4:00 PM</p>
+                <p className="text-base font-normal">Taragaon Next, Boudha</p>
               </div>
             </div>
           </div>
+
         </div>
       </section>
     </>
