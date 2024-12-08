@@ -4,7 +4,7 @@ import logo from "../assets/images/logo.png";
 function Sign_up() {
   return (
     <section
-      className="backdrop-blur-3xl h-full overflow-hidden flex justify-center py-20 relative before:absolute before:left-[50%] before:top-[20%] 2xl:before:top-[30%]
+      className="backdrop-blur-3xl h-screen overflow-hidden flex justify-center py-20 relative before:absolute before:left-[50%] before:top-[20%] 2xl:before:top-[30%]
      before:bg-primary/80 before:rounded-full before:size-[15%] 2xl:before:size-[15%] before:-z-[1] before:blur-[105px] after:absolute after:right-[%] after:top-[70%] 2xl:after:top-[60%] after:bg-red-600 after:rounded-full after:size-[15%] 2xl:after:size-[15%] after:-z-[1] after:blur-[105px]"
     >
       <div className="container flex justify-center items-center z-[10] relative before:absolute before:right-[55%] before:top-[30%] 2xl:before:top-[35%] before:bg-green-500 before:rounded-full before:size-[15%] 2xl:before:size-[15%] before:-z-[1] before:blur-[105px]">
