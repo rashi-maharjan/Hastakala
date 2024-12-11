@@ -8,10 +8,11 @@ import Header from './components/Header.jsx'
 import Events from './pages/Events.jsx'
 import Button from './components/Button.jsx'
 import Community from './pages/Community.jsx'
+import Cart from './pages/Cart.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
     <App />
-    <Community/>
+    <Cart/>
   </StrictMode>,
 )
